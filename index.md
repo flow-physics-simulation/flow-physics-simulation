@@ -1,4 +1,4 @@
-# FPS Web Site
+# FPS Code Suite
 
 [Flow Physics and Simulation (FPS)](https://github.com/flow-physics-simulation/flow-physics-simulation/edit/gh-pages/index.md) is a compuational laboratory for studying a wide range of fluid mechanics phenomena.  
 
