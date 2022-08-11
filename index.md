@@ -10,20 +10,20 @@ The flagship code is [LNS3D](https://sscollis.github.io/lns3d/) which is the pri
 
 Code     |     Description
 ---------|--------------------------------------------------------
-LNS3D    |  Primary 2d3c linear and nonlinear Navier-Stokes solver
-FSC      |  3D boundary layer similarity solutions
-COMPBL   |  3D boundary layer similarity solutions
-NPOT     |  Compressible potential flow
-STAB     |  Direct linear stabilty solver (curvature and receptivity included)
-SHOOT    |  Shooting linear stability solver (curvature and nonparallel)
+[LNS3D](https://github.com/sscollis/lns3d)    |  Primary 2d3c linear and nonlinear Navier-Stokes solver
+[FSC](https://github.com/sscollis/fsc)      |  3D boundary layer similarity solutions
+[COMPBL](https://github.com/sscollis/compbl)   |  3D boundary layer similarity solutions
+[NPOT](https://github.com/sscollis/npot)     |  Compressible potential flow
+[STAB](https://github.com/sscollis/stab)     |  Direct linear stabilty solver (curvature and receptivity included)
+[SHOOT](https://github.com/sscollis/shoot)    |  Shooting linear stability solver (curvature and nonparallel)
 
 ## Incompressible
 
 Code     |     Description
 ---------|--------------------------------------------------------
-DYNISO   |  Isotropic homogeneous turbulence solver
-PSE      |  Parabolized Stabilty Equation (PSE) solver
-OS-STAB  |  Orr-Sommerfeld solver using Conte shooting (Blasius solver included)
+[DYNISO](https://github.com/sscollis/dyniso)   |  Isotropic homogeneous turbulence solver
+[PSE](https://github.com/sscollis/pse)      |  Parabolized Stabilty Equation (PSE) solver
+[OS-STAB](https://github.com/sscollis/os-stab)  |  Orr-Sommerfeld solver using Conte shooting (Blasius solver included)
 
 ----
 
